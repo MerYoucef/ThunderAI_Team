@@ -1,6 +1,5 @@
 # ThunderAI_Team
-* This repository contains the backend implementation code in the financial_health folder for the application, providing tools to manage and analyze financial data for corporations.
-It includes features for financial reporting, cash flow management, transaction tracking, and generating financial insights and recommendations. The backend is built using Django and Django REST Framework, with an integrated FastAPI service for working with external APIs like Google Gemini for graph interpretations.
+* This repository contains the backend code for the financial analysis application within the financial_health folder. It provides comprehensive tools for managing and analyzing corporate financial data, including features for financial reporting, cash flow management, transaction tracking, and generating financial insights and recommendations. The backend is built using Django and Django REST Framework, with FastAPI integrated to handle external APIs such as Google Gemini for interpreting graphs.
 
 * The notebook contain a Recommendation and Future Prediction study to our solution
 
